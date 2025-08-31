@@ -24,6 +24,6 @@ The notebook is interactive and can be executed directly on Google Colab.
 
 1. Open the notebook on Colab via the badge above.  
 2. Run the cells in order.  
-3. Modify parameters as needed to test different instruments.
+3. Modify parameters as needed to test different conditions.
 
 ---
