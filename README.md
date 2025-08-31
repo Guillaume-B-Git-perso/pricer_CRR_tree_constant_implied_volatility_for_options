@@ -9,7 +9,7 @@ The notebook is interactive and can be executed directly on Google Colab.
 
 ## Open on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Guillaume-B-Git-perso/pricer_CRR_tree_constant-implied_volatility_for_options/blob/main/pricer_CRR_tree_constant-implied_volatility_for_options.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Guillaume-B-Git-perso/pricer_CRR_tree_constant_implied_volatility_for_options/blob/main/pricer_CRR_tree_constant_implied_volatility_for_options.ipynb)
 
 ---
 
