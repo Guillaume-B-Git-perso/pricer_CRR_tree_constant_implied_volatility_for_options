@@ -15,7 +15,7 @@ The notebook is interactive and can be executed directly on Google Colab.
 
 ## Project Content
 
-- `pricer_CRR_tree_constant-implied_volatility_for_options` : main notebook  
+- `pricer_CRR_tree_constant_implied_volatility_for_options` : main notebook  
 - Python code for pricing options using CRR tree and implied volatility.
 
 ---
